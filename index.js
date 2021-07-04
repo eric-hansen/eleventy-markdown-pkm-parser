@@ -25,4 +25,6 @@ const md = require('markdown-it')({
   })
 });
 
-
+module.exports = {
+  md: md
+};
