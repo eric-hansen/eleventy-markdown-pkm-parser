@@ -1,5 +1,5 @@
 {
-  "name": "eric-hansen/eleventy-markdown-pkm-parser",
+  "name": "@eric-hansen/eleventy-markdown-pkm-parser",
   "version": "1.0.0",
   "description": "",
   "main": ".eleventy.js",
