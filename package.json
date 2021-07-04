@@ -1,8 +1,8 @@
 {
-  "name": "eleventy-markdown-pkm-parser",
+  "name": "eric-hansen/eleventy-markdown-pkm-parser",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": ".eleventy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
